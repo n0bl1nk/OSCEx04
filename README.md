@@ -1,5 +1,6 @@
 # MDISEC Toplulugu - OSCEx04 - Ders Icerik Paylasim reposu
-String encoder
+String Encoder
+
 Kodu indirdikten sonra asagidaki gibi derleyip calistirin.
 
 nasm -f elf stringencoder.asm -o output.o
